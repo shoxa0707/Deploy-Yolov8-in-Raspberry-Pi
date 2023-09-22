@@ -35,9 +35,3 @@ After installation done. The project is ready to launch:
 ```bash
 python run.py
 ```
-
-## 👀 Demos
-
-Result of the project is as follows:<br>
-
-<img src="images/RaspberryPi+IpCamera.gif">
